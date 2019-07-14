@@ -56,7 +56,7 @@ ex. https://{subdomain}.cybozu.com/k/{appId}
 
 ## Reference
 - [kintone portal API (portal.show|mobile.portal.show)](https://developer.cybozu.io/hc/ja/articles/360028785452) 
-- [Maptomo Blog - mt-kinportal](https://maptomo.com/https://maptomo.com/mt-kinportal)
+- [Maptomo Blog - mt-kinportal](https://maptomo.com/mt-kinportal)
 
 ## Licensing
 Licensed under the [MIT License](/LICENCE).

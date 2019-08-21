@@ -6,7 +6,7 @@
 
 |Link collection|Map (Only capture)|
 |---|---|
-|![](img/pt3.png)|![](img/pt5.png)|
+|![](img/pt3.png)|![](img/pt2.png)|
 
 
 

@@ -20,7 +20,7 @@
 ## Requirements
 - kintone
     - [Trial JP](https://kintone.cybozu.co.jp/trial/) or [Developer license JP](https://developer.cybozu.io/) 
-    - [Trial EN](https://www.kintone.com/trial/)[Developer license EN](https://developer.kintone.io/) 
+    - [Trial EN](https://www.kintone.com/trial/) or [Developer license EN](https://developer.kintone.io/) 
 - Chrome
 - Kintone Portal Designer Chrome Extension
     - [Kintone Portal Designer](https://chrome.google.com/webstore/detail/kintone-portal-designer/kmedncknheiegbelfmcfdlpcpfbnklmo)

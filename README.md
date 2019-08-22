@@ -11,10 +11,10 @@
 
 
 ## Features
-- Tab1: Displays the standard kintone widgets
-- Tab2: A link collection can be displayed with images from kintone Apps
+- Tab 1: Displays the standard kintone widgets
+- Tab 2: A link collection can be displayed with images from kintone Apps
     - Required: Link name, URL, Image link
-- Tab3: Challenge yourself to create your own page!
+- Tab 3: Challenge yourself to create your own page!
 
 
 ## Requirements
@@ -26,12 +26,12 @@
     - [Kintone Portal Designer](https://chrome.google.com/webstore/detail/kintone-portal-designer/kmedncknheiegbelfmcfdlpcpfbnklmo)
 
 
-## Quick Start part1
+## Quick Start part 1
 1. Upload and save the following files to kintone administration > JS / CSS customization
 - [mt-kinportal_desktop.js](mt-kinportal_desktop.js)
 - [mt-kinportal_mobile.js](mt-kinportal_mobile.js)
 
-## Quick Start part2
+## Quick Start part 2
 
 1. Load the following template into kintone to create an app
 - [portal_link.zip](app/portal_link.zip) 
